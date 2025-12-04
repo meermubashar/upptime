@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/meermubashar.com.ico",
     "slug": "meer-mubashar-homepage",
     "status": "down",
-    "uptime": "1.15%",
-    "uptimeDay": "1.15%",
-    "uptimeWeek": "1.15%",
-    "uptimeMonth": "1.15%",
-    "uptimeYear": "1.15%",
+    "uptime": "1.69%",
+    "uptimeDay": "1.69%",
+    "uptimeWeek": "1.69%",
+    "uptimeMonth": "1.69%",
+    "uptimeYear": "1.69%",
     "time": 319,
     "timeDay": 319,
     "timeWeek": 319,
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/meermubashar.com.ico",
     "slug": "meer-mubashar-server-health",
     "status": "down",
-    "uptime": "1.94%",
-    "uptimeDay": "1.94%",
-    "uptimeWeek": "1.94%",
-    "uptimeMonth": "1.94%",
-    "uptimeYear": "1.94%",
+    "uptime": "1.45%",
+    "uptimeDay": "1.45%",
+    "uptimeWeek": "1.45%",
+    "uptimeMonth": "1.45%",
+    "uptimeYear": "1.45%",
     "time": 69,
     "timeDay": 69,
     "timeWeek": 69,
@@ -56,7 +56,7 @@
     "timeMonth": 153,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-12-04": 27
+      "2025-12-04": 28
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/themedialenses.com.ico",
     "slug": "the-media-lenses",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 120,
     "timeDay": 120,
     "timeWeek": 120,
     "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2025-12-04": 27
+      "2025-12-04": 28
     }
   }
 ]
